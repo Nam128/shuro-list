@@ -23,7 +23,7 @@ Software I actually use. Open-source tools that replace paid subscriptions, and 
 
 - [PRO Threads](https://shuro-bvg.pages.dev/en/p/pro-threads/) `Fork` - Letters and 3D scenes woven from threads of light, drawn live in WebGL. A drop-in landing page background. Fork of [kubai087/pro-threads](https://github.com/kubai087/pro-threads). `MIT`
 - [Excalidraw](https://shuro-bvg.pages.dev/en/p/excalidraw/) - A hand-drawn style whiteboard. No install, no sign-up. Replaces Miro, FigJam. `MIT` `⭐ 135k`
-- [Penpot](https://shuro-bvg.pages.dev/en/p/penpot/) - An open-source design tool in the browser. Output stays web-standard. Replaces Figma. `MPL-2.0` `⭐ 62k`
+- [Penpot](https://shuro-bvg.pages.dev/en/p/penpot/) - An open-source design tool in the browser. Output stays web-standard. Replaces Figma. `MPL-2.0` `⭐ 62.1k`
 
 ## Photos & media
 

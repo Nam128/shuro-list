@@ -23,7 +23,7 @@
 
 - [PRO Threads](https://shuro-bvg.pages.dev/ko/p/pro-threads/) `포크` - 빛의 실로 짠 글자와 3D 장면을 WebGL로 실시간 렌더링. 랜딩 페이지 배경으로 바로 씁니다. 원본: [kubai087/pro-threads](https://github.com/kubai087/pro-threads). `MIT`
 - [Excalidraw](https://shuro-bvg.pages.dev/ko/p/excalidraw/) - 손그림 느낌 화이트보드. 설치도 가입도 없이 바로. Miro, FigJam 대체. `MIT` `⭐ 135k`
-- [Penpot](https://shuro-bvg.pages.dev/ko/p/penpot/) - 브라우저에서 쓰는 오픈소스 디자인 툴. 결과물은 웹 표준 그대로. Figma 대체. `MPL-2.0` `⭐ 62k`
+- [Penpot](https://shuro-bvg.pages.dev/ko/p/penpot/) - 브라우저에서 쓰는 오픈소스 디자인 툴. 결과물은 웹 표준 그대로. Figma 대체. `MPL-2.0` `⭐ 62.1k`
 
 ## 사진 · 미디어
 
