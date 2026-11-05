@@ -10,6 +10,7 @@ Software I actually use. Open-source tools that replace paid subscriptions, and 
 
 - [Ollama](https://shuro-bvg.pages.dev/en/p/ollama/) - Run LLMs on your own machine. Once a model is downloaded, no subscription and no internet needed. Replaces ChatGPT Plus. `MIT` `⭐ 186k`
 - [Open WebUI](https://shuro-bvg.pages.dev/en/p/open-webui/) - A ChatGPT-style chat screen you host. Local models and APIs in one place. Replaces ChatGPT, Claude.ai. `Open WebUI License` `⭐ 158k`
+- [Appllama Skills](https://shuro-bvg.pages.dev/en/p/appllama-skills/) - Agent skills that study top-grossing apps and build native-quality mobile screens. `MIT` `⭐ 4.9k`
 
 ## Automation
 

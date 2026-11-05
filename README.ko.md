@@ -10,6 +10,7 @@
 
 - [Ollama](https://shuro-bvg.pages.dev/ko/p/ollama/) - 내 컴퓨터에서 돌리는 LLM. 모델을 받아 두면 구독도, 인터넷도 없이. ChatGPT Plus 대체. `MIT` `⭐ 186k`
 - [Open WebUI](https://shuro-bvg.pages.dev/ko/p/open-webui/) - ChatGPT 같은 채팅 화면을 내 컴퓨터에. 로컬 모델과 API를 한곳에서. ChatGPT, Claude.ai 대체. `Open WebUI License` `⭐ 158k`
+- [Appllama Skills](https://shuro-bvg.pages.dev/ko/p/appllama-skills/) - 매출 상위 앱의 화면을 참고해 네이티브급 모바일 앱을 만들게 하는 에이전트 스킬. `MIT` `⭐ 4.9k`
 
 ## 자동화
 
