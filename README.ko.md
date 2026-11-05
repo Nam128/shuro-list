@@ -28,10 +28,11 @@
 ## 사진 · 미디어
 
 - [Immich](https://shuro-bvg.pages.dev/ko/p/immich/) - 구글 포토 경험 그대로, 저장 공간은 내 디스크만큼. Google Photos, iCloud Photos 대체. `AGPL-3.0` `⭐ 118k`
+- [Jellyfin](https://shuro-bvg.pages.dev/ko/p/jellyfin/) - 내 영화와 음악을 어느 기기로든 스트리밍하는 무료 미디어 서버. Plex, Netflix 대체. `GPL-2.0` `⭐ 59k`
 
 ## 비밀번호 · 보안
 
-- [Vaultwarden](https://shuro-bvg.pages.dev/ko/p/vaultwarden/) - Bitwarden 앱과 그대로 호환되는 가벼운 비밀번호 서버. 1Password, LastPass 대체. `AGPL-3.0` `⭐ 70.2k`
+- [Vaultwarden](https://shuro-bvg.pages.dev/ko/p/vaultwarden/) - Bitwarden 앱과 그대로 호환되는 가벼운 비밀번호 서버. 1Password, LastPass 대체. `AGPL-3.0` `⭐ 70.3k`
 
 ## 웹 분석
 
@@ -39,7 +40,7 @@
 
 ## PDF · 문서
 
-- [Stirling-PDF](https://shuro-bvg.pages.dev/ko/p/stirling-pdf/) - PDF 합치기·압축·OCR·서명을 내 컴퓨터에서. 업로드 없이. Adobe Acrobat, Smallpdf 대체. `MIT` `⭐ 95.7k`
+- [Stirling-PDF](https://shuro-bvg.pages.dev/ko/p/stirling-pdf/) - PDF 합치기·압축·OCR·서명을 내 컴퓨터에서. 업로드 없이. Adobe Acrobat, Smallpdf 대체. `MIT` `⭐ 95.8k`
 
 ## 라이선스
 

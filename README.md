@@ -28,10 +28,11 @@ Software I actually use. Open-source tools that replace paid subscriptions, and 
 ## Photos & media
 
 - [Immich](https://shuro-bvg.pages.dev/en/p/immich/) - The Google Photos experience, with storage as big as your own disk. Replaces Google Photos, iCloud Photos. `AGPL-3.0` `⭐ 118k`
+- [Jellyfin](https://shuro-bvg.pages.dev/en/p/jellyfin/) - A free media server that streams your own movies and music to any device. Replaces Plex, Netflix. `GPL-2.0` `⭐ 59k`
 
 ## Passwords & security
 
-- [Vaultwarden](https://shuro-bvg.pages.dev/en/p/vaultwarden/) - A lightweight password server that works with the official Bitwarden apps. Replaces 1Password, LastPass. `AGPL-3.0` `⭐ 70.2k`
+- [Vaultwarden](https://shuro-bvg.pages.dev/en/p/vaultwarden/) - A lightweight password server that works with the official Bitwarden apps. Replaces 1Password, LastPass. `AGPL-3.0` `⭐ 70.3k`
 
 ## Analytics
 
@@ -39,7 +40,7 @@ Software I actually use. Open-source tools that replace paid subscriptions, and 
 
 ## PDF & documents
 
-- [Stirling-PDF](https://shuro-bvg.pages.dev/en/p/stirling-pdf/) - Merge, compress, OCR and sign PDFs on your own machine. No uploads. Replaces Adobe Acrobat, Smallpdf. `MIT` `⭐ 95.7k`
+- [Stirling-PDF](https://shuro-bvg.pages.dev/en/p/stirling-pdf/) - Merge, compress, OCR and sign PDFs on your own machine. No uploads. Replaces Adobe Acrobat, Smallpdf. `MIT` `⭐ 95.8k`
 
 ## License
 
